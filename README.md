@@ -1,5 +1,7 @@
 ###  Olá! Me chamo Igor... 
 
+Gradativamente estou adquirindo conhecimentos em desenvolvimento de software em aplicações desktop em pascal (Delphi, Lazarus), linguagem SQL em bancos de dados como Postgre e Firebird e possuo conhecimento iniciais em HTML 5, CSS3 e Javascript.
+
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=SirigorDev&show_icons=true&theme=dark"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirigorDev&layout=compact&theme=dark"/>  
